@@ -1,0 +1,1 @@
+<h1>{$sampleValue}</h1>
